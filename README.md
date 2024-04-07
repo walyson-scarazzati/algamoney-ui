@@ -1,5 +1,20 @@
 Projeto do curso da Algaworks https://www.algaworks.com/ back-end: https://github.com/walyson-scarazzati/algamoney-api
 
+# Create a new repository on the command line
+ 
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/walyson-scarazzati/algamoney-ui
+git push -u origin master
+ 
+# Push an existing repository from the command line
+ 
+git remote add origin https://github.com/walyson-scarazzati/algamoney-ui
+git push -u origin master
+
+
 # AlgamoneyUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
