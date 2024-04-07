@@ -1,3 +1,5 @@
+Projeto do curso da Algaworks https://www.algaworks.com/ back-end: https://github.com/walyson-scarazzati/algamoney-api
+
 # AlgamoneyUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
