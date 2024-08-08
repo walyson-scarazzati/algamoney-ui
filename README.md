@@ -1,4 +1,4 @@
-Projeto do curso da Algaworks https://www.algaworks.com/ back-end: https://github.com/walyson-scarazzati/algamoney-api
+Course project from Algaworks https://www.algaworks.com/ back-end: https://github.com/walyson-scarazzati/algamoney-api
 
 # AlgamoneyUi
 
